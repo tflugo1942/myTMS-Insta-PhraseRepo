@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name_three">OTA Example</string>
+    <string name="app_name_three">OTA Example - Freddy Testing Repo Import</string>
     <string name="hello_world_three">Hello World</string>
     <string name="app_subtitle_three">from Phrase</string>
 </resources>
